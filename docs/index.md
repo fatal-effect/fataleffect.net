@@ -1,10 +1,10 @@
 
 ## Roster
 
-[roster](https://github.com/gitdek/fataleffect.net/blob/main/roster.md)
+[roster](roster.md)
 
 
 ## Servers
 
-[servers](https://github.com/gitdek/fataleffect.net/blob/main/servers.md)
+[servers](servers.md)
 
