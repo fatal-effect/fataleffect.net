@@ -4,10 +4,12 @@ roster.fataleffect.net
 # Fatal Effect Roster
 --------------------------------------------------------------------------------
 
-## Roles
+### Roster and roles
 
 
-|                |ROLE                           |EMAIL                        |NOTES   |
+
+
+|ALIAS           |ROLE                           |EMAIL                        |NOTES   |
 |----------------|-------------------------------|-----------------------------|--------|
 |Tarantvla       |  IGL                          | jordan@fataleffect.net      |        |
 |Cortunix        |  lurk                         | cortunix@fataleffect.net    |        |
