@@ -18,6 +18,7 @@ roster.fataleffect.net
 |flashback       |  main awp                     |                             |        |
 |dilly           |  rifler                       |                             |        |
 |DeK             |  support                      | dek@fataleffect.net         |        |
+|Garysan         |                               |                             |        |
 
 
 
