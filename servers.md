@@ -2,9 +2,13 @@
 --------------------------------------------------------------------------------
 
 practice.fataleffect.net    - practice server
+
 dm.fataleffect.net          - deathmatch NY #1
+
 pistol.fataleffect.net      - pistol deathmatch #1 (NY3)
+
 scrim.fataleffect.net       - bare metal running get5
+
 teamspeak.fataleffect.net   - teamspeak server - ask for password
 
 
