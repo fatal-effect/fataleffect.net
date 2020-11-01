@@ -18,7 +18,7 @@ roster.fataleffect.net
 |flashback       |  main awp                     | flashback@fataleffect.net   |        |
 |dilly           |  rifler                       |                             |        |
 |DeK             |  support                      | dek@fataleffect.net         |        |
-|Garysan         |                               |                             |        |
-
+|Garysan         |                               | garysan@fataleffect.net     |        |
+|Tones           |                               | tones@flashback.net
 
 
