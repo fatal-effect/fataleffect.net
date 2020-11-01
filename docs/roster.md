@@ -15,7 +15,7 @@ roster.fataleffect.net
 |Cortunix        |  lurk                         | cortunix@fataleffect.net    |        |
 |crow            |  above average entrier        | crow@fataleffect.net        |        |
 |north           |  hybrid(secondary awp)        |                             |        |
-|flashback       |  main awp                     |                             |        |
+|flashback       |  main awp                     | flashback@fataleffect.net   |        |
 |dilly           |  rifler                       |                             |        |
 |DeK             |  support                      | dek@fataleffect.net         |        |
 |Garysan         |                               |                             |        |
